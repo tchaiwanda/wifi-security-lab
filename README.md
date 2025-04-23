@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# wifi-security-lab
-Hands-on wireless security lab using ESP8266 Deauther and isolated guest network for ethical hacking practice. 
-=======
 # Wi-Fi Security Lab with ESP8266 Deauther
 
 This project documents my hands-on wireless security lab using an ESP8266 devboard running Spacehuhn's Deauther firmware. The goal was to explore Wi-Fi attacks and defenses in a safe, isolated environment for cybersecurity learning.
